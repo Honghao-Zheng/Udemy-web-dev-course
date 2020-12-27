@@ -1,0 +1,73 @@
+body{margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF
+}
+
+h2{
+  font-family: 'Merriweather', cursive;
+  color:#66BFBF;
+  font-weight:normal;
+  font-size: 2.5rem
+}
+
+h3{
+  font-family: 'Montez', cursive;
+}
+
+
+
+.top-container{background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+}
+
+.underline{
+  text-decoration: underline
+}
+.top-cloud{position: absolute;
+  right:300px;
+  top:50px;}
+
+.bottom-cloud{position: absolute;
+left: 300px;
+bottom:300px}
+
+.skill-row{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2}
+
+.instagram{
+  width:10%;
+  float: left;
+  margin-right: 10px
+}
+.web{
+  width: 30%;
+  float:right;
+  position:relative;
+  left:50px
+}
+
+.description{
+  clear: left;
+
+}
+
+.footer-link{
+  margin:auto 30px auto 30px;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
