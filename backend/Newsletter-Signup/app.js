@@ -37,6 +37,3 @@ app.post("/",function(res,rep){
 app.listen(3000,function(){
   console.log("server is running on port 3000");
 });
-
-// apikey:25413ddaf031799fee5f53d5293c15f2-us7
-//audience id:fbc9893187
